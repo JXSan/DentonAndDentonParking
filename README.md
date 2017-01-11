@@ -12,5 +12,16 @@ Below are the technologies / languages used:
     - Operating system: Ubuntu 14.04
     - Web server: Apache2.0, PHPmyAdmin, PHP5
 
-Screenshots coming soon.
+#Log In Screen
+![log in](https://cloud.githubusercontent.com/assets/9119543/21865453/2467f478-d814-11e6-9894-8fdde9efdd2f.PNG)
+
+#Dashboard
+![dashboard](https://cloud.githubusercontent.com/assets/9119543/21865451/24649d28-d814-11e6-9cdb-96814d8dfbba.PNG)
+
+#Subscriber Sign Up Form
+![subscriber sign up](https://cloud.githubusercontent.com/assets/9119543/21865452/2464f124-d814-11e6-8e30-fce943089cc2.PNG)
+
+#Subscriber List
+![subscriber list](https://cloud.githubusercontent.com/assets/9119543/21865454/246b9614-d814-11e6-9134-093a1c51952c.PNG)
+
 
